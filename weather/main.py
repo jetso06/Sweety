@@ -8,7 +8,7 @@ from weather import *
 
 
 #STARTER
-api_key = 'f6ddca5ce386b72d0bf02bb4d0589b21'
+api_key = 'key'
 client = discord.Client()
 command_prefix = '$w'
 
